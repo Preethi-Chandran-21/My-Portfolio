@@ -46,10 +46,6 @@ const about = {
             fieldValue: 'preethichandran2198@gmail.com',
         },
         {
-            fieldName: 'Phone',
-            fieldValue: '(+91)-73971 70695',
-        },
-        {
             fieldName: 'Experience',
             fieldValue: '3 Years',
         },
